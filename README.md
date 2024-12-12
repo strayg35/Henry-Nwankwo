@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Digital Portfolio</title>
+    My Digital Portfolio
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Henry Ikechukwu Nwankwo</h1>
         <p>Hello there! Welcome to my portfolio!</p>
     </header>
     <section id="about">
