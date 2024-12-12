@@ -52,19 +52,21 @@ screen keyboards, increasing my love for the technological world. <br> Having li
         <ul>
             <li>
                 <h3>C++ projects</h3>
-                <p>Though I would not consider myself experienced enough to take on tasking challenges like creating multiple projects per day, I can say that during the course of completion of my Programming module assignment 1, I undertook some tasks in C++. These tasks involved various aspects of the C++ programming str</p>
+                <p>Though I would not consider myself experienced enough to take on tasking challenges like creating multiple projects per day, I can say that during the course of completion of my Programming module assignment 1, I undertook some tasks in C++. These tasks involved various aspects of the C++ programming structure such as use of do-While loops, for loops, functions etc. <br> An example of a task I completed was one in which I was instructed to make use of functions to create a conversion table for temperatures from Celsius to Fahrenheit. This specific question was particularly interesting because this was the question that sparked my interest in the functions aspect of C++. To give the question a solution, I was required to create multiple functions which would be used to store the formula/calculation for the temperature conversion. After doing this, i would then be required to call the function under the 'int main' header which then outputs a final result. <br> <br> 
+<h3>Database Projects</h3>
+<p> Another one of my projects I completed while studying in University was the Relational database I created using Oracle apex, I found the completion of this project quite tasking as I do not particularly enjoy creating databases and writing SQL code. </p>
                 <a href="https://github.com/your-username/project-repo">View on GitHub</a>
             </li>
             <!-- Add more projects as needed -->
         </ul>
     </section>
     <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/your-profile/">your-profile</a></p>
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:ikstrayg@gmail.com">ikstrayg@gmail.com.com</a></p>
+        <p>Instagram: <a href="https://instagram.com/ikstrayg">My Instagram profile</a></p>
     </section>
     <footer>
-        <p>&copy; 2024 Your Name</p>
+        <p>&copy; Ikechukwu Nwankwo</p>
     </footer>
 </body>
 </html>
