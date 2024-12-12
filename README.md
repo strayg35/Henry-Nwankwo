@@ -10,7 +10,7 @@ Hello there! Welcome to my portfolio!
 
 <section style="background-color: #e3f2fd; padding: 1rem; border-radius: 5px;">
 <p style="color: #424242;">
-My name is Nwankwo Ikechukwu Henry, I am a 19 year old male Computer science student studying at the University of Southwales in its Treforest Campus. My enthusiasm for Computers and computer related entities sparked up as a child when my
+My name is Nwankwo Ikechukwuv Henry, I am a 19 year old male Computer science student studying at the University of Southwales in its Treforest Campus. My enthusiasm for Computers and computer related entities sparked up as a child when my
 young and ever innovative mind thought it would be an outstanding idea to dismantle my
 personal computer and see ways in which I could put it back together to either be a
 modified version of the original or just more visually appealing. After doing this, having
