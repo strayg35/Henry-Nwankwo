@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333; /* Text color */
+}
+
+header {
+    background-color: #333; /* Dark background for the header */
+    color: white; /* White text color */
+    text-align: center;
+    padding: 1rem 0;
+}
+
+section {
+    padding: 2rem;
+    background-color: #fff; /* White background for sections */
+    margin-bottom: 1rem;
+}
+
+section#about {
+    background-color: #e3f2fd; /* Light blue background for the 'About Me' section */
+}
+
+section#projects {
+    background-color: #fff9c4; /* Light yellow background for the 'Projects' section */
+}
+
+
+section#contact {
+    background-color: #e8f5e9; /* Light green background for[_{{{CITATION{{{_1{](https://github.com/fireun/Masomon-Online-Shopping/tree/6fa264f2c43c095aa821a7eafd80b8ca66a77afe/user%2FcancellationRequest.php)
