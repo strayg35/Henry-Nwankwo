@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Henry Ikechukwu Nwankwo</h1>
+        <h1>Henry Ikechukwu Nwankwo</h1> <br> Aspiring programmer, Football Enthusiast
         <p>Hello there! Welcome to my portfolio!</p>
     </header>
     <section id="about">
