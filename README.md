@@ -70,8 +70,3 @@ screen keyboards, increasing my love for the technological world. <br> Having li
     </footer>
 </body>
 </html>
-    <footer style="background-color: #333; color: #fff; text-align: center; padding: 1rem 0;">
-        <p>&copy; Henry Ikechukwu Nwankwo</p>
-    </footer>
-</body>
-</html>
