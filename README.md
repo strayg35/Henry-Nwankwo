@@ -73,6 +73,7 @@ Another one of my projects I completed while studying in University was the Rela
 </p>
 <h3 style="color: #1976d2;">Miscellaneous</h3>
 <p style="color: #424242;">
+I am proud to have earned several Coursera certifications, demonstrating my commitment to expanding my knowledge and skills in various areas of computer science and cybersecurity. My educational journey includes certifications in Introduction to Calculus, SQL, Foundations of Cryptography, and Introduction to Cyber Security. These courses have provided me with a solid foundation in mathematical concepts, data management, secure communication, and safeguarding information. Each course has not only enhanced my technical abilities but also deepened my understanding of key principles that are crucial in today's digital world. My dedication to continuous learning is reflected in my efforts to stay updated with the latest advancements in technology and cybersecurity <br>
 Having listed a few of my Database and C++ projects I have worked on, there are a variety of C++ and general programming tasks I challenge myself with everyday, one of which is creating a calculator in C++ that performs basic operations which include Addition, Subtraction, Multiplication and Division. <br><br>
 In addition, I also have a very optimistic dream to create a Compiler for any language. Though it would be very demanding, it is what I feel I can and must do to be better as an aspiring programmer.
 </p>
